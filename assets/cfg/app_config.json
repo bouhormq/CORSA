@@ -1,16 +1,16 @@
 {
-    "emailFeedback": "feedback@trufi.app",
-    "emailInfo": "info@trufi.app",
+    "emailFeedback": "bouhormq@gmail.com",
+    "emailInfo": "bouhormq@gmail.com",
     "urlOtpEndpoint": "https://api.trufi.app/otp/routers/default",
     "urlTilesStreetsEndpoint": "https://api.trufi.app/tiles/streets",
     "urlTilesSatelliteEndpoint": "https://api.trufi.app/tiles/satellite",
     "urlTilesTerrainEndpoint": "https://api.trufi.app/tiles/terrain",
     "urlAdsEndpoint": "",
     "urlRouteFeedback": "https://trufifeedback.z15.web.core.windows.net/route.html",
-    "urlDonate": "http://www.trufi.app/donate-inapp",
-    "urlWebsite": "https://www.trufi.app/blog/",
-    "urlFacebook": "https://www.facebook.com/trufiapp",
-    "urlTwitter": "https://twitter.com/TrufiAssoc",
-    "urlInstagram": "https://www.instagram.com/trufi.app",
-    "urlShare": "https://appurl.io/BOPP7QnKX"
+    "urlDonate": "",
+    "urlWebsite": "",
+    "urlFacebook": "",
+    "urlTwitter": "",
+    "urlInstagram": "",
+    "urlShare": ""
 }

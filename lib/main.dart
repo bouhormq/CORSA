@@ -82,9 +82,9 @@ void main() async {
   trufiCfg.map.onlineMaxZoom = 19.0;
   trufiCfg.map.onlineZoom = 13.0;
   trufiCfg.map.chooseLocationZoom = 16.0;
-  trufiCfg.map.center = LatLng(-17.39000, -66.15400);
-  trufiCfg.map.southWest = LatLng(-17.79300, -66.75000);
-  trufiCfg.map.northEast = LatLng(-16.90400, -65.67400);
+  trufiCfg.map.center = LatLng(35.572337, -5.373242);
+  trufiCfg.map.southWest = LatLng(35.308321, -5.536133);
+  trufiCfg.map.northEast = LatLng(35.844339, -5.087094);
 
   // Languages
   trufiCfg.languages.addAll([
@@ -102,22 +102,17 @@ void main() async {
       languageCode: "es",
       countryCode: "ES",
       displayName: "Español",
-      isDefault: true,
     ),
     TrufiConfigurationLanguage(
       languageCode: "fr",
       countryCode: "FR",
       displayName: "Français",
+      isDefault: true,
     ),
     TrufiConfigurationLanguage(
       languageCode: "it",
       countryCode: "IT",
       displayName: "Italiano",
-    ),
-    TrufiConfigurationLanguage(
-      languageCode: "qu",
-      countryCode: "BO",
-      displayName: "Quechua simi",
     ),
   ]);
 
@@ -139,9 +134,9 @@ void main() async {
   runApp(
     TrufiApp(
       theme: ThemeData(
-        primaryColor: const Color(0xff263238),
-        primaryColorLight: const Color(0xffeceff1),
-        accentColor: const Color(0xffd81b60),
+        primaryColor: const Color(0xff20356b),
+        primaryColorLight: const Color(0xffe5f0fa),
+        accentColor: const Color(0xfffcec35),
         backgroundColor: Colors.white,
       ),
     ),

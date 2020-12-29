@@ -738,8 +738,8 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: d5df94750a7c95df6018149eefe0621f8e07d894
-      url: "https://github.com/SamuelRioTz/trufi-core"
+      resolved-ref: "708b496fe8cec7eee355a1f6de6a023452549fd0"
+      url: "https://github.com/bouhormq/trufi-core.git"
     source: git
     version: "0.0.1"
   tuple:
