@@ -25,8 +25,8 @@ void main() async {
     animation: "Trufi Drive",
   );
   trufiCfg.animation.success = FlareActor(
-    "assets/images/success.flr",
-    animation: "Untitled",
+    "",
+    animation: "",
   );
 
   // Attribution
