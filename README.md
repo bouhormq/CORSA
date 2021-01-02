@@ -1,4 +1,4 @@
-### Count
+### Supported Bus Routes
 **Total**: 50  **Correct**: 50  **With error**: 0
 
 ### Morocco-Tetouan
