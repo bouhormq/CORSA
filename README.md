@@ -1,7 +1,6 @@
 ### Supported Bus Routes
 **Total**: 50  **Correct**: 50  **With error**: 0
 
-### Morocco-Tetouan
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
 [10190520](https://www.openstreetmap.org/relation/10190520) | Rif (Rommana)-Boujarrah | L1 | Rif (Rommana) | Boujarrah | ✅
