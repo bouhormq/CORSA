@@ -72,9 +72,10 @@ void main() async {
   trufiCfg.image.drawerBackground = "assets/images/drawer-bg.jpg";
 
   // Map
+  trufiCfg.map.mapTilerKey = "ugdtyAvKEOt7ClXjO5sM";
   trufiCfg.map.satelliteMapTypeEnabled = true;
   trufiCfg.map.terrainMapTypeEnabled = true;
-  trufiCfg.map.defaultZoom = 12.0;
+  trufiCfg.map.defaultZoom = 14.0;
   trufiCfg.map.offlineMinZoom = 8.0;
   trufiCfg.map.offlineMaxZoom = 14.0;
   trufiCfg.map.offlineZoom = 13.0;

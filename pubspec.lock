@@ -738,7 +738,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "708b496fe8cec7eee355a1f6de6a023452549fd0"
+      resolved-ref: c2b8492d45ead5ba06b90b88a3d0c8721cef1134
       url: "https://github.com/bouhormq/trufi-core.git"
     source: git
     version: "0.0.1"
