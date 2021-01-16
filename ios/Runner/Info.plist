@@ -41,5 +41,19 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSContactsUsageDescription</key>
+	<string>NSContactsUsageDescription</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>NSCalendarsUsageDescription</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>NSAppleMusicUsageDescription</string>
+	<key>NSMotionUsageDescription</key>
+	<string>NSMotionUsageDescription</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>NSSpeechRecognitionUsageDescription</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>NSLocationAlwaysUsageDescription</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>NSLocationWhenInUseUsageDescription</string>
 </dict>
 </plist>
