@@ -25,8 +25,8 @@ void main() async {
     animation: "Trufi Drive",
   );
   trufiCfg.animation.success = FlareActor(
-    "",
-    animation: "",
+    "assets/images/success.flr",
+    animation: "Untitled",
   );
 
   // Attribution
@@ -119,9 +119,12 @@ void main() async {
 
   // Url
   trufiCfg.url.otpEndpoint = globalCfg.getString("urlOtpEndpoint");
-  trufiCfg.url.tilesStreetsEndpoint = globalCfg.getString("urlTilesStreetsEndpoint");
-  trufiCfg.url.tilesSatelliteEndpoint = globalCfg.getString("urlTilesSatelliteEndpoint");
-  trufiCfg.url.tilesTerrainEndpoint = globalCfg.getString("urlTilesTerrainEndpoint");
+  trufiCfg.url.tilesStreetsEndpoint =
+      globalCfg.getString("urlTilesStreetsEndpoint");
+  trufiCfg.url.tilesSatelliteEndpoint =
+      globalCfg.getString("urlTilesSatelliteEndpoint");
+  trufiCfg.url.tilesTerrainEndpoint =
+      globalCfg.getString("urlTilesTerrainEndpoint");
   trufiCfg.url.adsEndpoint = globalCfg.getString("urlAdsEndpoint");
   trufiCfg.url.routeFeedback = globalCfg.getString("urlRouteFeedback");
   trufiCfg.url.donate = globalCfg.getString("urlDonate");
