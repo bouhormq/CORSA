@@ -1,3 +1,6 @@
+![Preview image](https://github.com/bouhormq/CORSA/blob/master/graph.png)
+
+
 ### Supported Bus Routes
 **Total**: 50  **Correct**: 50  **With error**: 0
 
